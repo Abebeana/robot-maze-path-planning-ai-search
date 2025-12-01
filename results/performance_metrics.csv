@@ -1,0 +1,5 @@
+Algorithm,Path Length,Cells Explored,Execution Time (ms),Success
+BFS,47,234,0.51,True
+DFS,53,122,0.31,True
+GBFS,47,121,1.09,True
+A*,47,159,0.60,True
